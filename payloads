@@ -1,3 +1,16 @@
+-------------------------------------------------------------------------------POTENTIALLY VULNRERABLE PARAMETER NAME FOR DIRECTORY TRAVERSAL---------------------------------------------------------------
+file
+document
+folder
+root
+path
+pg
+style
+pdf
+template
+php_path
+doc
+
 ---------------------------------------------------------------------------------Interesting files to check out :-----------------------------------------------------------------------------------------------
 /etc/issue
 /etc/passwd
